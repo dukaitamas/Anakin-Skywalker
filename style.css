@@ -5,7 +5,7 @@ main{
 }
 
 header {background-image: url('./img/first-website-header.png');
-    height: 300px;
+    height: 100%;
     background-size: cover;
 }
 
@@ -14,12 +14,62 @@ header {background-image: url('./img/first-website-header.png');
 width: 60vw;
 background-color: bisque;
 margin: auto;
-
+margin-top: 0;
+padding-top: 0;
 }
 
 
 blockquote{
     background-color: #333;
     color: white;
+    width: 100%;
+    height:30% ;
+    text-align: left;
+    font-family: 'Abril Fatface', serif;
+font-family: 'Sen', sans-serif;
+position: relative;
+   
 
 }
+
+h1{
+    font-size: 72pt;
+    left: 25%;
+    font-family: 'Abril Fatface', serif;
+font-family: 'Sen', sans-serif;
+}
+
+h3{
+    font-size: 33pt;
+    margin: 0;
+    padding: 0;
+    left: 15%;
+    font-family: 'Abril Fatface', serif;
+font-family: 'Sen', sans-serif;
+}
+
+/* #koszonto{
+    position: absolute;
+    left: 60pt;
+} */
+
+html{
+    margin: 0;
+padding: 0;
+}
+
+
+
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Sen', sans-serif;
+
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Sen', sans-serif;
+
+#idezojel{
+    position: absolute;
+    top: 0;
+
+}
+
